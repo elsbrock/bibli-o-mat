@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/thinkJD/bibli-o-mat/compare/v0.1.1...v0.2.0) (2023-04-23)
+
+
+### Features
+
+* Use dedicated dir for persistent data ([#19](https://github.com/thinkJD/bibli-o-mat/issues/19)) ([7e3c22e](https://github.com/thinkJD/bibli-o-mat/commit/7e3c22efdb56233252e4dbf8c91f42c8778e94e6))
+
 ## [0.1.1](https://github.com/thinkJD/bibli-o-mat/compare/v0.1.0...v0.1.1) (2023-04-18)
 
 
